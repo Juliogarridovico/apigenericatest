@@ -18,6 +18,7 @@ API RESTful para gestionar los gastos de un grupo durante un viaje, desarrollado
 
 **Instala las dependencias necesarias:
    npm install
+   
 **Ejecuta el servidor:
   node src/index.js
 
