@@ -13,7 +13,7 @@ API RESTful para gestionar los gastos de un grupo durante un viaje, desarrollado
 ## Instalación
 
 ** Clona este repositorio a tu máquina local:
-   git clone https://github.com/<tu-usuario>/proyecto-viaje.git
+   git clone https:/github.com/<tu-usuario>/proyecto-viaje.git
    cd proyecto-viaje
 
 **Instala las dependencias necesarias:
@@ -85,3 +85,11 @@ A continuación, se describen los endpoints disponibles en la API:
      - `id`: ID del viaje a eliminar.
 
 Cada uno de estos endpoints debe ser usado conforme a su método HTTP correspondiente, y en caso de enviar o recibir información, ésta será en formato JSON.
+
+## 6. mejoras futuras
+
+Este proyecto sirve como una API para gestionar los gastos de un grupo durante un viaje, y ha sido desarrollado a modo experimental y académico. Su objetivo principal es servir como herramienta de aprendizaje, y no se recomienda su uso en entornos de producción.
+
+## Aviso Importante
+Esta API se ha desarrollado con fines educativos y experimentales únicamente. **No está diseñada para ser usada en aplicaciones reales** y no se garantiza su seguridad, escalabilidad, o mantenimiento a largo plazo. Utilízala bajo tu propio riesgo.
+
